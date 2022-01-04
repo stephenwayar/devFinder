@@ -1,0 +1,38 @@
+.inpt:focus {
+  outline-color: #4B91E2;
+}
+@media (min-width: 640px) {
+  .inpt{
+    width: 310px;
+  }
+}
+@media (min-width: 768px) {
+  .inpt{
+    width: 350px;
+  }
+}
+@media (min-width: 1024px) {
+  .inpt{
+    width: 390px;
+  }
+}
+@media (min-width: 1440px) {
+  .inpt{
+    width: 550px;
+  }
+}
+@media (min-width: 1280px) {
+  .inpt{
+    width: 510px;
+  }
+}
+@media (min-width: 1536px) {
+  .inpt{
+    width: 480px;
+  }
+}
+@media (min-width: 1920px) {
+  .inpt{
+    width: 850px;
+  }
+}
